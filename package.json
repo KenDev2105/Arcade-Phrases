@@ -1,0 +1,30 @@
+{
+  "name": "arcade-phrases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenDev2105/Arcade-Phrases.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/KenDev2105/Arcade-Phrases/issues"
+  },
+  "homepage": "https://github.com/KenDev2105/Arcade-Phrases#readme",
+  "dependencies": {
+    "sql.js": "^1.16.0"
+  },
+  "devDependencies": {
+    "@types/sql.js": "^1.4.11",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8"
+  }
+}
