@@ -2,6 +2,7 @@
 
 Un "arcade" donde la gente vota frases de videojuegos, películas y memes. Cada voto actualiza al instante el **Top 10** en un marcador estilo máquina recreativa.
 
+Vista: https://arcade-phrases.vercel.app
 ## Tecnologías
 
 - **Vite + TypeScript**
